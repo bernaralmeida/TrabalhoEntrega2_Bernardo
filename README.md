@@ -1,2 +1,2 @@
-# https://TrabalhoEntrega2_Bernardo.github.io
+# https://TrabalhoEntrega2_Bernardo
 Meu trabalho PUC MINAS 2021
